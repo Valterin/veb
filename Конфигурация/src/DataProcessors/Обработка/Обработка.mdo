@@ -11,7 +11,7 @@
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.Обработка.Form.Форма</defaultForm>
-  <forms uuid="3c00da7a-8f36-4e31-9712-eb223c9e0792">
+  <forms uuid="3083ab73-5dce-4ff0-81c1-8efaa51d19f1">
     <name>Форма</name>
     <synonym>
       <key>ru</key>
